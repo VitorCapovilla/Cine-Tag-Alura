@@ -1,8 +1,9 @@
+import Cabecalho from 'components/Cabecalho';
 import './Inicio.module.css';
 
 const Inicio = () => {
     return (
-        <h1>Teste</h1>
+        <Cabecalho/>
     )
 }
 
