@@ -1,0 +1,13 @@
+.Footer{
+    background-color: var(--preto);
+    position: absolute;
+    width: 100%;
+    bottom: 0%;
+    padding: 20px;
+}
+
+.Footer h2{
+    color: var(--branco);
+    text-align: center;
+    font-size: 18px;
+}
