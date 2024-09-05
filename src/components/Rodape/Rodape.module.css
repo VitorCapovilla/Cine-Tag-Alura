@@ -1,12 +1,13 @@
-.Footer{
+.Footer {
     background-color: var(--preto);
-    position: absolute;
     width: 100%;
-    bottom: 0%;
+    bottom: 0;
+    left: 0;
     padding: 20px;
+    box-sizing: border-box;
 }
 
-.Footer h2{
+.Footer h2 {
     color: var(--branco);
     text-align: center;
     font-size: 18px;
